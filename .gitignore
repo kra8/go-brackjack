@@ -1,0 +1,8 @@
+# mac os environment files
+.DS_Store
+
+# bin
+/bin
+
+# other
+memo.md
